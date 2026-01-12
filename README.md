@@ -14,7 +14,7 @@ The primary goal of this project was to master the fundamentals of **Network Pro
 * Practice the "Small Steps" methodology in software development—starting with a simple connection and incrementally adding complexity like loops and conditional logic.
 
 ### Software Demo Video
-[Software Demo Video]([http://youtube.link.goes.here](https://github.com/Hioyuki/HelloWorld))
+[Software Demo Video](https://youtu.be/3cuGjY2SbCc?si=XJ4Osg-TrJu8dxiH)
 
 # Development Environment
 
